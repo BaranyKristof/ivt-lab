@@ -88,6 +88,7 @@ public class GT4500 implements SpaceShip {
             wasPrimaryFiredLast = false;
           }
           //branch-A change here
+          //branch-B change here
 
         break;
     }
